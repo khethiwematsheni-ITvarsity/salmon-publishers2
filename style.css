@@ -96,7 +96,7 @@ section .title::after{
     justify-content: space-between;
 }
 .navbar .logo a{
-    padding-right: 280px ;
+    padding-right: 320px ;
     color: #fff;
     font-size: 35px;
     font-weight: 600;
